@@ -3,6 +3,7 @@
 # Olif
 
 ### Grantee: `~litneb-maltyp`
+### Champion `~tocrex-holpen`
 ### July 18, 2022
 
 `Proposal` `Other`
